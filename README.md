@@ -1,9 +1,8 @@
-background-image: url(https://imgur.com/OQtl5vY)
+<img src= "https://i.imgur.com/OQtl5vY.jpg" width="100%" height="700"/>
 <h1>Hi there, I’m Essence!</h1>
-I'm a software engineer studying fullstack web development at General Assembly!
-I am passionate about 
+I'm a software engineer studying fullstack web development at General Assembly 👩‍💻
 
-Check out my most recent project! 
+<h6>Check out my most recent project "All Hail the Pickle" in my pinned section!</h6>
 
 <!---
 eufuller/eufuller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
