@@ -2,7 +2,7 @@
 <h1>Hi there, I’m Essence!</h1>
 I'm a software engineer studying fullstack web development at General Assembly 👩‍💻
 
-<h6>Check out my most recent project "All Hail the Pickle" in my pinned section!</h6>
+<h6>Check out my most recent project "Avatar Nations" in my pinned section!</h6>
 
 <!---
 eufuller/eufuller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
