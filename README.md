@@ -1,4 +1,4 @@
-<img src= "[https://i.imgur.com/OQtl5vY.jpg](https://i.imgur.com/5CPeCRQ.jpg)" width="100%" height="700"/>
+<img src= "https://i.imgur.com/OQtl5vY.jpg" width="100%" height="700"/>
 <h1>Hi there, I’m Essence!</h1>
 I'm a software engineer studying fullstack web development at General Assembly 👩‍💻
 
